@@ -19,3 +19,4 @@ def get_num(small, big):
 
 if __name__=='__main__':
 	get_num(101, 200)
+	get_num(0, 100)
