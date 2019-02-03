@@ -19,7 +19,3 @@ if __name__ == '__main__':
 	num = input('请输入数字：')
 	index = input('请输入相加次数：')
 	add_num(num, int(index))
-
-'''
-我需要一些东西鼓励我，但是不希望是朋友圈，显得傻乎乎的，想在soul发，但也不希望再有羁绊
-'''
