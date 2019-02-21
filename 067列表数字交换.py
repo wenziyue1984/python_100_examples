@@ -1,4 +1,6 @@
 # -*- coding:utf-8 -*-
+import random
+
 __author__ = 'wenziyue'
 
 '''
@@ -27,3 +29,11 @@ def test(l):
 	num_min = l[-1]
 	l[-1] = l[index_min]
 	l[index_min] = num_min
+
+	print(l)
+
+
+if __name__ == '__main__':
+	l = [random.randint(1, 100) for _ in range(10)]
+	print(l)
+	test(l)
