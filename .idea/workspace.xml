@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="565b89d1-2d88-4773-a0d9-ec4d76ff09f8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/068移动数字.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/069围圈报数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/070字符串长度.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/071输入输出.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/072创建链表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/073反向输出链表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/074列表排序及连接.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/075简单题目.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/076求n分之一的和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/077循环输出列表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/078找出年龄最大的人.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,6 +27,8 @@
     <SUITE FILE_PATH="coverage/python_100_examples$020.coverage" NAME="020小球落地 Coverage Results" MODIFIED="1548990455675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_100_examples$023.coverage" NAME="023比赛名单 Coverage Results" MODIFIED="1549866409382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_100_examples$016.coverage" NAME="016输出日期 Coverage Results" MODIFIED="1548921241975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_100_examples$075.coverage" NAME="075简单题目 Coverage Results" MODIFIED="1551057321042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_100_examples$078.coverage" NAME="078找出年龄最大的人 Coverage Results" MODIFIED="1551058030820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_100_examples$025.coverage" NAME="025阶乘求和 Coverage Results" MODIFIED="1549868221836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_100_examples$019.coverage" NAME="019完数 Coverage Results" MODIFIED="1548987848543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_100_examples$028.coverage" NAME="028年龄递归 Coverage Results" MODIFIED="1549869576969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -31,9 +36,11 @@
     <SUITE FILE_PATH="coverage/python_100_examples$060.coverage" NAME="060字符串长度 Coverage Results" MODIFIED="1550630436741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_100_examples$069.coverage" NAME="069围圈报数 Coverage Results" MODIFIED="1550806503726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_100_examples$066.coverage" NAME="066排序输出 Coverage Results" MODIFIED="1550712966417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_100_examples$077.coverage" NAME="077循环输出列表 Coverage Results" MODIFIED="1551057829739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_100_examples$051__.coverage" NAME="051使用按位与 &amp; Coverage Results" MODIFIED="1550555214332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_100_examples$017.coverage" NAME="017字符统计 Coverage Results" MODIFIED="1548924927080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_100_examples$029.coverage" NAME="029五位数 Coverage Results" MODIFIED="1549870498108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_100_examples$076n.coverage" NAME="076求n分之一的和 Coverage Results" MODIFIED="1551057732300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_100_examples$05447.coverage" NAME="054取某整数的4到7位 Coverage Results" MODIFIED="1550558489090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_100_examples$024.coverage" NAME="024分数求和 Coverage Results" MODIFIED="1549867059599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_100_examples$047.coverage" NAME="047变量值互换 Coverage Results" MODIFIED="1550453640639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -46,6 +53,7 @@
     <SUITE FILE_PATH="coverage/python_100_examples$018.coverage" NAME="018数字相加 Coverage Results" MODIFIED="1548985819823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_100_examples$067.coverage" NAME="067列表数字交换 Coverage Results" MODIFIED="1550718092731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_100_examples$036.coverage" NAME="036一百之内的素数 Coverage Results" MODIFIED="1550028143984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_100_examples$073.coverage" NAME="073反向输出链表 Coverage Results" MODIFIED="1551056834234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_100_examples$055.coverage" NAME="055按位取反 Coverage Results" MODIFIED="1550629536560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_100_examples$052.coverage" NAME="052按位或 Coverage Results" MODIFIED="1550555495718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_100_examples$039.coverage" NAME="039数组插入元素 Coverage Results" MODIFIED="1550110301894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -61,6 +69,7 @@
     <SUITE FILE_PATH="coverage/python_100_examples$026.coverage" NAME="026递归求阶乘 Coverage Results" MODIFIED="1549868471412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_100_examples$068.coverage" NAME="068移动数字 Coverage Results" MODIFIED="1550803700072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_100_examples$033.coverage" NAME="033逗号分隔列表 Coverage Results" MODIFIED="1549940095309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_100_examples$074.coverage" NAME="074列表排序及连接 Coverage Results" MODIFIED="1551057159925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_100_examples$038.coverage" NAME="038对角线元素之和 Coverage Results" MODIFIED="1550108576952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_100_examples$021.coverage" NAME="021猴子吃桃 Coverage Results" MODIFIED="1548999927337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_100_examples$056.coverage" NAME="056画圆形 Coverage Results" MODIFIED="1550629939242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -69,64 +78,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="063画椭圆.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/063画椭圆.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" selection-start-line="24" selection-end-line="26" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="064画图.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/064画图.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" selection-start-line="25" selection-end-line="27" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="065画一个优美的图.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/065画一个优美的图.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="950">
-              <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="066排序输出.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/066排序输出.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="067列表数字交换.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/067列表数字交换.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="068移动数字.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/068移动数字.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="069围圈报数.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/069围圈报数.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
+            <state relative-caret-position="494">
               <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
             </state>
           </provider>
@@ -136,25 +91,16 @@
         <entry file="file://$PROJECT_DIR$/070字符串长度.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
-              <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+              <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="071输入输出.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/071输入输出.py">
+      <file leaf-file-name="078找出年龄最大的人.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/078找出年龄最大的人.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="53" lean-forward="true" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="037数字排序.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/037数字排序.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            <state relative-caret-position="245">
+              <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -179,13 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/024分数求和.py" />
-        <option value="$PROJECT_DIR$/025阶乘求和.py" />
-        <option value="$PROJECT_DIR$/026递归求阶乘.py" />
-        <option value="$PROJECT_DIR$/027递归打印.py" />
-        <option value="$PROJECT_DIR$/028年龄递归.py" />
-        <option value="$PROJECT_DIR$/029五位数.py" />
-        <option value="$PROJECT_DIR$/030回文判断.py" />
         <option value="$PROJECT_DIR$/031判断周几.py" />
         <option value="$PROJECT_DIR$/032列表逆序输出.py" />
         <option value="$PROJECT_DIR$/033逗号分隔列表.py" />
@@ -230,6 +169,13 @@
         <option value="$PROJECT_DIR$/069围圈报数.py" />
         <option value="$PROJECT_DIR$/070字符串长度.py" />
         <option value="$PROJECT_DIR$/071输入输出.py" />
+        <option value="$PROJECT_DIR$/072创建链表.py" />
+        <option value="$PROJECT_DIR$/073反向输出链表.py" />
+        <option value="$PROJECT_DIR$/074列表排序及连接.py" />
+        <option value="$PROJECT_DIR$/075简单题目.py" />
+        <option value="$PROJECT_DIR$/076求n分之一的和.py" />
+        <option value="$PROJECT_DIR$/077循环输出列表.py" />
+        <option value="$PROJECT_DIR$/078找出年龄最大的人.py" />
       </list>
     </option>
   </component>
@@ -289,8 +235,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.071输入输出">
-    <configuration name="067列表数字交换" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.078找出年龄最大的人">
+    <configuration name="074列表排序及连接" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_100_examples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,13 +249,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/067列表数字交换.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/074列表排序及连接.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="068移动数字" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="075简单题目" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_100_examples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -322,13 +268,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/068移动数字.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/075简单题目.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="069围圈报数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="076求n分之一的和" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_100_examples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -341,13 +287,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/069围圈报数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/076求n分之一的和.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="070字符串长度" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="077循环输出列表" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_100_examples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -360,13 +306,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/070字符串长度.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/077循环输出列表.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="071输入输出" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="078找出年龄最大的人" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_100_examples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -379,26 +325,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/071输入输出.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/078找出年龄最大的人.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.067列表数字交换" />
-      <item itemvalue="Python.068移动数字" />
-      <item itemvalue="Python.069围圈报数" />
-      <item itemvalue="Python.070字符串长度" />
-      <item itemvalue="Python.071输入输出" />
+      <item itemvalue="Python.074列表排序及连接" />
+      <item itemvalue="Python.075简单题目" />
+      <item itemvalue="Python.076求n分之一的和" />
+      <item itemvalue="Python.077循环输出列表" />
+      <item itemvalue="Python.078找出年龄最大的人" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.071输入输出" />
-        <item itemvalue="Python.070字符串长度" />
-        <item itemvalue="Python.069围圈报数" />
-        <item itemvalue="Python.068移动数字" />
-        <item itemvalue="Python.067列表数字交换" />
+        <item itemvalue="Python.078找出年龄最大的人" />
+        <item itemvalue="Python.077循环输出列表" />
+        <item itemvalue="Python.076求n分之一的和" />
+        <item itemvalue="Python.075简单题目" />
+        <item itemvalue="Python.074列表排序及连接" />
       </list>
     </recent_temporary>
   </component>
@@ -532,7 +478,14 @@
       <option name="project" value="LOCAL" />
       <updated>1550718130862</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="2019-02-22">
+      <created>1550807294677</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1550807294677</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -542,11 +495,11 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41137123" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41137123" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32943144" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.39632106" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2586904" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26273242" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -581,7 +534,8 @@
     <MESSAGE value="2019-02-19" />
     <MESSAGE value="2019-02-20" />
     <MESSAGE value="2019-02-21" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-02-21" />
+    <MESSAGE value="2019-02-22" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-02-22" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -606,53 +560,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/029五位数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/030回文判断.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/031判断周几.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="48" column="3" lean-forward="true" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/005数字排序.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-296" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/007复制列表.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/033逗号分隔列表.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/034练习函数调用.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/035文本颜色设置.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -929,35 +836,84 @@
     <entry file="file://$PROJECT_DIR$/068移动数字.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-end-line="14" />
+          <caret line="13" column="21" selection-start-line="13" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/067列表数字交换.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        <state relative-caret-position="475">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/069围圈报数.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
+        <state relative-caret-position="494">
           <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/070字符串长度.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/071输入输出.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="13" column="53" lean-forward="true" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
+          <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/072创建链表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/073反向输出链表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/074列表排序及连接.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/075简单题目.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/076求n分之一的和.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/077循环输出列表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/070字符串长度.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/078找出年龄最大的人.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
         </state>
       </provider>
     </entry>
