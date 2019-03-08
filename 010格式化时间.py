@@ -7,9 +7,9 @@ __author__ = 'wenziyue'
 
 import time
 
-if __name__=='__main__':
+if __name__ == '__main__':
 	t1 = time.time()
-	# print(t1)
+	print(t1)
 	print(time.strftime('%Y-%m-%d,%H:%M:%S', time.localtime(t1)))
 	time.sleep(1)
 	t2 = time.time()
@@ -17,6 +17,7 @@ if __name__=='__main__':
 	print(t2-t1)
 
 	'''时间戳'''
+	print('*'*30)
 	print(time.time())
 	'''元祖格式的时间，加不加time.time()都可以'''
 	print(time.localtime())

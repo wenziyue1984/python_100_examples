@@ -11,7 +11,7 @@ for i in range(-100, 2500):
 	# if math.modf((i+100) ** 0.5)[0]==0 and math.modf((i+168) ** 0.5)[0]==0:
 	# 	print(i)
 		# break
-	if ((i+100) ** 0.5)%1==0 and ((i+100+168) ** 0.5)%1==0:
+	if ((i+100) ** 0.5) % 1 == 0 and ((i+100+168) ** 0.5) % 1 == 0:
 		print(i)
 print('over')
 
