@@ -24,5 +24,18 @@ def get_num(num):
 				return num_list
 		continue
 
+def get_num2(num):
+	num_list = []
+	shang = num
+	for i in range(2, 999):
+		if zhishu(i):
+			while (shang % i == 0):
+				num_list.append(i)
+				shang /= i
+				if zhishu(shang):
+					num_list.append(int(shang))
+					return num_list
+			continue
+
 if __name__=='__main__':
-	print(get_num(774))
+	print(get_num2(774))
